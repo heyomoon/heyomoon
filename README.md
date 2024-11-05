@@ -1,4 +1,4 @@
-👋 Hi there! I'm Himanshu Durgapal
+👋 Hi there! I'm Ken
 🎓 About Me
 I'm currently a third-year BCA (Bachelor of Computer Applications) student with a passion for software development. I'm on a journey to become a skilled Software Engineer, and I'm excited to share my projects and learnings with you!
 
